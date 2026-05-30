@@ -89,10 +89,9 @@ Globalnie:
 ## 7) Dokumentacja projektowa
 
 Notebook dokumentacyjny znajduje się w:
-- `notebooks/dokumentacja_projektowa.ipynb`
+- `dokumentacja_projektowa.ipynb`
 
 Uruchomienie:
 ```bash
 jupyter notebook
 ```
-Następnie otwórz notebook i uzupełnij wyniki po treningu.
